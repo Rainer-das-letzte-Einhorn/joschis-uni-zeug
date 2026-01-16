@@ -1,0 +1,4 @@
+- diese Homepage besser machen
+- flashcards lernen
+- schauen ob obsidian auch besser mit vorlesungsfolien arbeiten kann
+- fragen für t1 überlegen

@@ -1,0 +1,2 @@
+#soziologielexikon  #so1 
+Kohorten Sind Gruppen von Menschen, mit denen etwas geschieht, bspw. gleichzeitig geboren. Aber auch gemeinsam in dem Studiengang sind wir eine Studienkohorte. Am meisten haben wir Geburtenkohorten.

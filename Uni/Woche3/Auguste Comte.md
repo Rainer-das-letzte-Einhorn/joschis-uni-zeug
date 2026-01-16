@@ -1,0 +1,4 @@
+#soziologie #comte
+Französischer Philosoph und [["Proto-Soziologie"]], geboren 1798, gestorben 1857. Hat die [[Bewegung des Positivismus]] gegründet. Bekannt ist er geworden innerhalb der Wissenschaftstheorie. Wollte mit dem Buch [["Die Soziologie" (Comte)]] die 'Positive Methode' einführen.
+##### Verhältnis vom Auguste Comte zu [[Karl Marx]]
+Marx entwirft die "politische Ökonomie" als anti-philosophie, die komplett neu anfangen soll/muss. Comte will eher mit dem Positivismus die Philosophie (als Methodik der Wissenschaft) vollenden. Er will eine Soziologie aufbauen die die vorherigen Errungenschaften ernst nimm und sich insgesamt weiterentwickeln will. Marx will eher alles völlig neu machen, die Gesellschaft und Philosophie hinter sich lassen. Laut Comte ist die Soziologie die Vollendung der Positiven Philosophie. 

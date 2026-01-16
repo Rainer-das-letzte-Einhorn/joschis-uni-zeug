@@ -1,0 +1,2 @@
+#soziologie #t1
+Wissenschaftstheorie die sehr praxisnah, politiknah, wollte Gesellschaft mitgestalten. Bewegung hat abseits der Wissenschaft zu funktionieren, ähnlich einer Alternativreligion (zum Katholizismus). Hatte eine eigene Kirche, eigene Form der Anbetung, eigener Kalender usw.. Im 19Jh war diese Bewegung erfolgreich, vor allem in Südamerika. "Ordem e Progresso"(Ordnung und Fortschritt) auf der brasilianischen Flagge.

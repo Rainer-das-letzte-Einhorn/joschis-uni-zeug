@@ -1,0 +1,45 @@
+#soziologie #t1 #richard
+- Mitglied der Durkheim Schule
+	- positioniert sich gegen durkeim und gegen Tarde
+	- Grundlage des Rechts
+	- Kritik Durkheim
+		- Solidarität ist relation einer aktuellen gesellschaft
+		- widerstand zwischen gesellschaft und individuum
+		- nachlesen!!!
+	- Kritik Tard
+		- gegen die bedingungslose Nachahmung (ohne zu hinterfragen)
+		- in einer gesellschaft gibt es grundsätzlich einen Widerstand
+			- weil wir unterschiedliche personen sind und dazu stehen
+			- nicht nuur ein wiederstand gegen, sondern auch für etwas (mich z.B.)
+			- kommt aus der [[Psychologie]]
+			- keine Eigenschaft von Akteuren
+				- eher ein Merkmal von Beziehungen zwischen Akteuren innerhalb einer Gesellschaft
+			- Recht entsteht aus dem Widerstand 
+				- müssen für alle gelten
+			- haben zwar gesellschaftliche Ordnung aber es gibt immer Akteure die diese überschreiten
+				- "Kriminelle" haben kein recht in der Gesellschaft da sie sich nicht an die gesellschaft halten und somit die gesellschaft zerstören wollen
+				- Kriminelle haben trotzdem rechte
+				- [[Anthroprometrie]], wissenschaft aus körpern zu schließen ob menschen bspw. kriminell sind
+					- dann kann man es als kind vorhersehen und direkt wegsperren
+			- lieber anstatt einsperren, begleiten im laufe des lebens
+			- (zur Zeit gibt es sehr viele Kriminelle)
+				- (Wissenschaftler sehen Kriminalität als Krankheit)
+			- Gesellschaft akzeptiert die Verantwortung für die Kriminellen nicht, die sie aber selbst produziert
+				- muss diese Verantwortung aber tragen
+			- kriminelle werden nicht immer kriminell bleiben
+	- Durch Kriminalität neue Auffasung von Solidarität
+		- Rechtssystem unterstützen, damit es für alle gleich da sein kann
+			- gelingt nur wenn Recht (was immer mit einem Staat/politischer Einheit verbunden ist) von dem Völkerrecht unterstützt wird
+				- nur durch die Anerkennung von rechten anderslebenden menschen sind unsere eigenen rechte gesichert
+				- werden als gesellschaft nur stärker wenn alle in akteure in der gesellschaft integriert werden können
+					- in die richtung einer klassenlosen gesellschaft 
+	- neuer begriff der soziologie
+		- nachlesen!!
+	- Gesellschaft ist keine Nation
+		- gesellschaft entwickelt sich weg von dem Nation
+		- moderne gesellschaft kann auch ohne staat leben
+			- durch organisationsform von bürgern
+				- bspw. genossenschaften usw.
+				- rat (Schweiz)
+		- gesellschafft ist dafür da, das die menschen sich entwickeln können
+			- welche form wollen wir entwickeln, die zum aktuellen wirtschaftlichen Zustand passt

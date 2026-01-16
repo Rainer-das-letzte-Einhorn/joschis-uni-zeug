@@ -1,0 +1,2 @@
+#t1 #soziologie #james #philosophie
+1842-1910. Eher ein Philosoph als ein Soziologe. Er hat den [[Pragmatismus]] ausführlich erklärt, vor allem in seinem [[William James 11#Pragmatismus. Ein neuer Name für einige alte Denkweisen]].

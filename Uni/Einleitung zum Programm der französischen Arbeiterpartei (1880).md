@@ -1,0 +1,2 @@
+#platypus #marx 
+Sehr stabiler Text, mit Forderungen die jetzt teilweise erfüllt aber auch teilweise gar nicht erfüllt sind, trotzdem interessant diese sich im aus heutiger Perspektive anzusehen. Der für mich wohl relevanteste Punkt ist aber das auf einmal Marx an einer Partei interessiert ist und sogar ein Teil des Parteiprogramms schreibt, ich dachte die Marxisten lehnen Parteien ab, wie wird dieser Wandel theoretisch begründet?

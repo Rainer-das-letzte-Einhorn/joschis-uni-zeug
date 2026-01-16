@@ -1,0 +1,3 @@
+#platypus #lukács 
+## Fragen
+Was bedeutet Objektiv und Subjektiv in diesem text die ganze zeit, also z.B. (Kaufmannskapital, Rolle des Geldes als Schatz bzw. als Geldkapital usw.) Diese Formen des Kapitals sind zwar objektiv dem eigentlichen Lebensprozeß des Kapitals, der Auspressung des Mehrwerts j in der Produktion selbst untergeordnet, sind also nur aus dem Wesen des industriellen Kapitalismus begreifbar, sie erscheinen aber,

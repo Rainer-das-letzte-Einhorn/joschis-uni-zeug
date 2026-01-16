@@ -1,0 +1,3 @@
+#t1 #soziologie #james #thomas 
+Einmal als Methode verstanden geht es um darum, dass Streits oder verschiedene Theorien die etwas gleiches beschreiben und zum gleichen Ergebnis kommen irrelevant sind. Quasi eine Methode um unwichtiges außer Acht zu lassen.
+Und einmal als Verständnis an sich, *jeder Mensch hat eine eigene Wahrheit, ein eigenes Weltbild, eine eigene Realität abseits der objektiven welche alles neue möglichst mit geringen Schwierigkeiten in dieses einbaut*. Dieser durchaus soziologische Gedanke wird mit dem [[Symbolischen Interaktionismus]] und dem [[Thomas-Theorem]] weitergeführt.
