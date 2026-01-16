@@ -11,10 +11,14 @@
             "id": "6f0ff710274ede13",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph-Ansicht"
+              "type": "markdown",
+              "state": {
+                "file": "Uni/MPL Seminar Woche 11.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "MPL Seminar Woche 11"
             }
           },
           {
@@ -102,6 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Uni/MPL Seminar Woche 11.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +116,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise"
+              "title": "Rückverweise auf MPL Seminar Woche 11"
             }
           },
           {
@@ -120,11 +125,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Uni/MPL Seminar Woche 11.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Ausgehende Links"
+              "title": "Ausgehende Links von MPL Seminar Woche 11 öffnen"
             }
           },
           {
@@ -148,12 +154,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Uni/MPL Seminar Woche 11.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Gliederung"
+              "title": "Gliederung von MPL Seminar Woche 11"
             }
           }
         ]
