@@ -1,0 +1,4 @@
+#platypus #marx 
+Ist eine Antwort auf Boudon.
+
+Marx schreibt, dass die Bürgerliche Gesellschaft auf einem Klassengegensatz begründet ist und dieser zwangsweise zu einer brutalen Auseinandersetzung kommen muss. Die neue Gesellschaft soll dann klassenlos sein, in ihr soll gesellschaftlicher Fortschritt ohne Revolution möglich sein. Ich habe das Gefühl, dass Marx die Revolution als unausweichlich ansieht, wie Hegel die Entwicklungen des Volksgeistes, eine Alte Gesellschaft erreicht ihren Zenit, wird schwerfällig und stirbt, oft revolutionär. Der gesellschaftliche Fortschritt ist nicht aufzuhalten.

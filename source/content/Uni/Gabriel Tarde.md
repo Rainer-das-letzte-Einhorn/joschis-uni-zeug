@@ -1,0 +1,75 @@
+#soziologie #t1 #tarde
+- wichtiger Gegenspieler von Durkheim
+- obwohl Durkheim hart gewonnen hat
+Wurde in den 90ern wieder ausgegraben => Renaissance
+In der [[Gabriel Tarde 5]] beschäftigen wir uns mit Tarde und dort gibt es auch eine Zusammenfassung des Streits.
+
+ Erfindung nachahmung wiederholung drei grundbegriffe
+- Erfindung
+	- Dynamik
+		- Gefühle fließen hinein
+			- unterscheidung in sympathische und hass gefühle
+			- führen auch zur vergröerung und vertiefung von kollektiven
+		- es gibt Akeutere (Personen) die gute Ideen haben und diese beeindrucken die Gesellschaft
+		- eine erfindung setzt immer ein ziel vorraus
+			- erfinden nur im Kontext der lösung eines problems
+			- eine erfindung nie ohne glauben und begehren
+	- Nachahmung
+		- erfindung nur der ausgangspunkt
+			- wenn nicht rezipiert dann nix
+			- muss rezipiert werden
+		- große Akteure produzieren etwas
+			- innere suggestion lässt andere dieses Produkt reprodroduzieren/nachahmen
+				- Ziel: das begehren etwas erreichen auch fühlen
+			- ich kopiere, veresuche genau das gleiche zu machen
+				- um auch große ziele zu erreichen
+				- Akteure bewundern große Menschen, wie kleine Kinder ihre Eltern
+			- Influencer versuchen dies gerade nachzumachen
+				- menschen die versuchen, andere menschen zu beeinflussen, damit dinge in einer gesellschaft erreicht werden
+		- wenn nachahmung stattgefundet hat, wird sie überall stattfinden
+			- sie verbreitet sich
+				- mithilfe von gefühlen (große gefühle der erfindung)
+				- keine rationale sache
+				- emotionen multiplikatoren von einflüssen der gesellschaft
+	- //Wie wird moderne Soziologie gemacht, das hier sind doch alles nur vermutungen und theorien. Stimmt davon überhaupt irgendwas mit der menschlichen Natur überein?
+	- Wiederholung
+		- durch nachahmung => weiter nachahmungen
+			- führt zu existenz von sozialen Verhältnissen und zur Gesellschaft
+	- nicht ziprokität oder solidarität als wurzel der gesellschaft sondern:
+		- prestige
+			- autorität von großen Menschen in der Gesellschaft
+				- haben großen einfluss in der Gesellschaft 
+				- grundsätzliche Asymmetrie zwischen Erfindern und Nachahmern (grundsätzlich ungleiche gesellschaft)
+	- ###### Klassengesellschaft
+		- natürlicher prozess
+			- nachahmer wollen prestige aktuere werden um auch autorität zu haben
+				- desakralisierung (man tötet Gott und erfindet dahinter den Menschen)
+				- auch wir können etwas erfinden
+				- wir reallsieren, dass wir in der Gesellschaft der Menschen leben
+	- Emotionen
+		- Imperium der Ästhetik, wenn asymmetrien abgeschafft sind
+			- Moment der Vervollständigung
+				- Zustand der Geselleschaft am Ende
+				- dadurch, das die Menschen sich als gleich ansehen
+				- überholung des Gesellschaftlichen lebens
+				- nicht gezwungen nach der gesellschaft zu leben
+					- menschen brauchen keine gesellschaft sondern nur ihre gefühle
+			- Weg aus der Vorstellung des biologischen Organismus [["Proto-Soziologie"]]
+				- verhaltenswissenschaften
+			- Prozess der Differenzierung von Menschen
+				- aber nicht soziale sondern nach Wiederholung u. Nachahmung der Erfindung von großen Akteuren
+				- nicht dadurch, dass man anders ist
+				- menschen kommen immer mehr zusammen, weil nur psotive gefühle
+					- daraus entsteht universale liebe
+	- Kritik an tarde
+		- tarde setzt vorraus das alle ständig nachahmen
+			- => Determininismus
+				- das kein hinterfragen möglich
+				- menschen als zombies die nur vollständig davon angetrieben werden etwas nachzuahmen 
+					- das es keine 
+		- keine zusammenstellung von ebenen ohne unterschiede
+			- Individuen bleiben
+				- das was diese machen kann nicht in größeren instanzen gesehen werden
+				- Politik und gesellschaft beeinflusst Wissenschaft und andersherum
+					- das fehlt bei Tarde
+	- Psychosozioiologie von Tarde => [["Proto-Soziologie"]]

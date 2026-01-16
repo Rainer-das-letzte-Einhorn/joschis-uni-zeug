@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": true,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#soziologie  ",
+      "color": {
+        "a": 1,
+        "rgb": 15015711
+      }
+    },
+    {
+      "query": "tag:#philosophie  ",
+      "color": {
+        "a": 1,
+        "rgb": 16761415
+      }
+    },
+    {
+      "query": "tag:#soziologielexikon  ",
+      "color": {
+        "a": 1,
+        "rgb": 15755868
+      }
+    },
+    {
+      "query": "tag:#orga  ",
+      "color": {
+        "a": 1,
+        "rgb": 3155163
+      }
+    },
+    {
+      "query": "tag:#platypus  ",
+      "color": {
+        "a": 1,
+        "rgb": 12344534
+      }
+    },
+    {
+      "query": "tag:#leben  ",
+      "color": {
+        "a": 1,
+        "rgb": 6073814
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.31899090629436244,
+  "close": true
+}

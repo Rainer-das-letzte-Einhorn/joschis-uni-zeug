@@ -1,0 +1,2 @@
+#philosophie #hume #praktischephilosophie #theoretischePhilosophie 
+Schottischer Philosoph, 1711 geboren und 1776 gestorben, hat die Philosophie im Bezug dem Verständnis des menschlichen Denkens revolutioniert. Er hat das Buch [["A Treatise of Human Nature" (Hume)]] geschrieben. Es erschien in zwei Bänden 1739/40. Hat dafür keine große Rückmeldung bekommen obwohl es sein größtes Werk war, und eines der größten Werke der Philosophie ist. Er hat auch das Buch [["An Enquiry Concerning Human Understanding"(Hume)]] geschrieben.

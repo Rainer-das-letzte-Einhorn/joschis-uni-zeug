@@ -1,0 +1,90 @@
+#philosophie #methodenmodul #platon #politaia
+#### Mitschrift
+- es geht noch um [[Wie lese ich?]]
+- wie hat Platon auf die Konflikte seinerzeit reagiert?
+- Buch (Platons Politaia) schließt an das Frühwerk an
+	- bestimmte formale charakteristika teilen sie mit dem Frühwerk
+- gibt auch scheiternde Dialoge bei Platon
+	- gesprächspartner gehen auseinander
+	- oder eine person verstummt einfach
+- Situation mit thermasychoraros
+	- gescheitertes gespräch
+	- therma antwortet nur noch mit ja, ja, ja
+		- haben die Figuren Gründe zum scheitern der Gespräche
+	- zeigt die schwere der Verständigung
+- Großer Bruch Politaia
+	- Sokrates geht ganz anders vor
+	- mehr Monologe
+	- reaktion auf das Scheitern?
+- Gesellschaftliche Konflikt
+	- Buch hat auch den Titel
+		- "Über Gerechtigkeit"
+		- => Sachfrage "Was ist Gerechtigkeit?"
+	- Laches
+		- "Über die Tapferkeit"
+- Warum ist asymacharos so eine interessante Figur?
+	- "Gerechtigkeit ist der Nutzen des Stärkeren"?
+		- sehr weit entgegensetzt zu der heutigen Gerechtigkeitstheorie
+	- sagt eine ganze Menge
+		- "Gerechtigkeit ist das Gut eines anderen"
+		- "Gerechtigkeit ist was für dumme"
+			- mündet in Lob des Tyrannen
+	- nicht so einfach diese Aussagen zusammenzubringen
+	- äußert einfach verschiedene Sätze die nicht zusammenpassen?
+		- man sollte dem Text aber erstmal Kohärenz unterstellen
+			- mag schwieriger, aber interessanter sein
+		- Interpretationen
+			- Politikperspektive
+			- Immoralistische Position
+			- es geht um die sinnvollste Interpretation
+				- sportlich spielerische Kompenente
+- Winfried Schröder (hat Moral Buch geschrieben)
+	- ist Asymarachros ein nihilistischer Moralist
+- Verteidigung des Asymachros (irgendein SPD Politiker)
+- Abweichung von Methodenfragen
+- erschließt sich wenn die gesamte Opposition von Asymachros entgegen Sokrates stellt
+- Interpretation der Eingangssequenz
+	- Was ist Freundschaft?
+	- Was ist Gerechtigkeit?
+	- Wann taucht die Frage in der Politaia auf?
+		- an der Stelle im Buch 331 C
+		- Was ist an der Methode des Sokrates so verstörend, dass Kephalos direkt den Raum verlässt
+			- Einleitungsteil zuende
+- Figur des Kephalos
+	- Interpretationsweisen von leuten die das material sehr gut kennen
+		- der bürdige alte bedarf das gespräch mit sokrates nicht
+			- als überlegene Figur
+		- als moralisch verkommene Person
+	- kleine Punkte im Text helfen die gesamte Problematik zu klären
+- wir kommen am besten in den text rein wenn wir rückkoppeln mit anderer literatur
+	- sekundärliteratur
+- Buch spielt im peloponesischem Krieg
+	- Demokraten wollten ins Feld ziehen
+- Tragödie und Komödienliteratur der damaligen Zeit
+- sitten und gebräuche der Perser?
+	- essen ihre vorfahren
+- sind unsere moralischen Vorstellungen gut begründet, wenn andere doch so ganz andere haben
+	- zwingt zur reflexion
+- Was man früher vorrausschauende Vorsicht genannt hat, nennt man jetzt feigheit
+- wegen des krieges gewöhnt man sich an Opfer und an Gewalt
+	- was gilt als tapfer und tollkühn und verwerflich
+	- die maßstäbe verschieben sich, es gibt kein Konsens mehr
+		- legitimitätsdruck
+- TAPFERKEIT IST EINE GUTE SACHE
+- drittes beispiel
+	- attischer Seenbund
+	- hat schatz
+	- wollen aussteigen
+		- macht die augen auf und wir schlachten euch nicht ab
+		- wehren sich mit gerichtigkeitsforderung
+			- athen sagt gerechtigkeit ist egal
+			- akzeptiert die machtverhältnisse!
+	- was ist der Kern des Streites?
+		- Kriterien sind kein Thema
+		- gibt es situationen wo gerechtigkeit kein thema ist?
+			- Soll man gerecht sein oder nicht
+				- Athener sagen ist irrelevant
+	- instabilität
+	- Wie können wir unsere Normen begründen, wo doch viele andere Völker andere Normen haben
+		- [[Grundgedanke der Soziologie]]
+		- es ist keine Norm gerecht zu sein, wenn man ein starker Staat ist

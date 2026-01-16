@@ -1,0 +1,52 @@
+#soziologie #t1 #worms
+- verteidiger des organizismus (organismus)
+	- andere soziologen haben ähnliches gemacht
+	- wollen institutionen gründen (soziologische)
+		- dann muss die gesellschaft uns sehen und die politik uns unterstützen
+	- Rechtswissenschaftler und soziologe auch Akteur in der Politk
+	- eine Wissenschaft unter anderen (nicht mehr spitze)
+		- Tochter der [["Politischen Ökonomie"]]
+			- obwohl hier mehr wirtschaftswissenschaften gemeint wird
+			- Teilung der Arbeit mit Vertrag
+				- stagnierung der spezialisierung von Akteuren
+				- antwort auf die neuen Bedürfnisse der gesellschaft
+					- da organismus, entwickelt sich alles organisch
+					- die wirtschaft ist das herz der gesellschaft
+						- wir leben alle davon
+						- wir leben davon das alles immer weiter spezialisiert wird
+						- vorstellung der sozialen Ordnung von Durkheim ablehnen
+	- Durch arbeitsteilung wird Vermögens
+		- wenn nicht alle akteure gleich am arbeitsmarkt teilnehmen können
+		- dann entsteht ungleichheit
+	- brauchen Soziale Wirtschaft
+		- müssen Wirtschaftsproblem behandeln
+		- Antwort auf den Kapitalismus
+			- Kapitalismus = perverse Entwicklung des liberalen Markts
+		- zusammen mit de rpolitischen Ökonomie verstehen, wie die Gesellschaft entwickelt werden muss
+			- Solidarismus kommt aus der Wirtschaft
+				- Gründung GmBH nicht unbedingt gut für die Wirtschaft
+					- könnte auch: gegenseitige Unterstützung der Wirtschaft, durch umverteilung des Profits auf alle
+					- möglich durch produktionsgenossenschaften
+	- Probleme der Sozialen Wirtschaft (von Worms selbst)
+		- menschen sind frei geworden durch verträge
+		- unterscheidung zwischen stadt land, soziale ungleichheit
+		- Industrien
+		- Vermögensverteilung ist immer noch ungerecht
+			- beeinträchtig zusammenarbeit zwischen Akteuren
+			- Spezialisierung muss anerkannt werden, vor allem wenn kein prestige möglich ist
+			- Beispiel Rattenfänger in New York, Gehalt einfach verzehnfacht
+			- Beispiel Corona, 30% der Studenten an Unis verloren warum?
+				- ansteckrisiko?
+				- online vl macht depressiv?
+				- verbesserung von arbeitsbedingungen in professionen ohne lange bildungswege
+					- z.B. tischler
+					- aber auch risiko des studierens da darlehen aufnahme
+						- arbeiten risikoärmer
+						- das was worms sagt, die anerkennung eines berufs in der gesellschaft ändern
+		- sind alle Benutzer u. Verbraucher dieser Gesellschaft
+		- Ansatz des Kapitalismus umdrehen (produzieren um des produzieren willens)
+			- wir produzieren nur das was wir brauchen
+		- wir müssen mikrokredite anbieten
+			- bankgründung in form einer genossenschaft
+			- kleine kredite (20,50,80€)
+				- hilft schon sehr

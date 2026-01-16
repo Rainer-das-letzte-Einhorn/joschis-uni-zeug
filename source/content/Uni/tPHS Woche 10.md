@@ -1,0 +1,62 @@
+#theoretischePhilosophie #hume #enquiry 
+## Zusammenfassung
+## Mitschrift
+- wieder psychologischer Determinismus
+- wieder Freiheit in der Handlungsfreiheit
+- beschäftigt sich mit Moralität
+- wie kann aus diesem Determinismus eine Moral entstehen?
+- Hume sagt aber das dieser Determinismus die Moral gar nicht berührt
+- menschliche Angelegenheiten sind Teil der Natur
+- wir sollen nach tatsächlich konstanten verbindungen im menschlichen handlungen suchen
+- es gibt Motive die gutes fördern und schlechtes verhindern
+	- das ist eine **constant conjunction**(vermutlich Klausurrelevant)
+	- bezieht sich auf Lohn und Strafe
+- in einer Gesellschaft gibt es immer Gesetze, Traditionen, ungeschriebene Regeln die belohnen oder bestrafen
+	- z.B. Arbeit weil der Lohn erwartet wird
+- Zurechnung
+	- wenn eine Handlung nicht auf eine Ursache in der Person zurückführen kann
+	- Wie ist diese Handlung dann zustande gekommen?
+		- für Hume ist diese Handeln dann Zufällig
+- Handlungen sind also entweder kausal determiniert oder zufällig
+	- wo ist da die Freiheit? nur bei dem Zufall?
+- Hume sagt aber auch das es Zufall nicht wirklich gibt
+	- wenn etwas zufällig erscheint, dann kennen wir nicht genug oder alle Einflussmarker
+- auch schlechte Handlungen können nicht verurteilt werden, solange sie nicht in der Person begründet sind (zufällig scheinen)
+	- sagt aber das es so etwas gar nicht gibt, weil es gäbe ja dann überhaupt keine grundlagen mehr für strafen oder lohn
+	- weil seine Theorie die Grundlage gibt und die Motive in den Menschen sucht und auch sagt das es immer Motive in den Menschen gibt
+	- irgendwie spielt auch der Charakter eine Rolle, dass dieser nicht beeinflussbar sei sondern einfach da ist
+	- unwissende und zufällige Handlungen
+#### Absatz über Wunder
+- von Wundern erfährt man über Berichte
+- Exkurs: Wissensquellen
+	- Sinneswahrnehmungen
+	- reasoning (logisches Schließen, Formales, [['a priori'-Wissen]])
+	- Erinnerung
+	- (Zeugnisse anderer)
+		- Reduktionismus (das die Wertigkeit des Zeugnisse auf die Quelle des Wissens der Person Zurückzuführen ist)
+		- Anti-Reduktionisten (eine a priori Berechtigung anderen bestimmten Menschen zu vertrauen, außer es gibt offensichtliche Gegengründe)
+- Erfahrung ist nicht unfehlbar, aber zeigt normalerweise an wenn sie sich nicht sicher ist
+- **Unterscheidung Proof und Probability, Demonstration**(Klausurrelevant)
+	- demonstration
+		- schluss, formaler beweis
+	- proof
+		- bisher vollständig gleichförmige erfahrung 
+		- = Naturgesetze, empirisches eindeutiges Wissen
+	- probabilitys 
+		- halt wahrscheinlichkeiten
+- ein Wunder ist eine Verletzung eine Naturgesetzes
+- Hume sagt es gibt keine Wunder
+	- die einzige möglichkeit für eine Wunder zu existieren wäre, wenn ein dem Bericht des Wunders nicht zu glauben nicht glauben würde selbst ein größeres Wunder war
+- Hume konstruiert einen Bericht in dem ein Wunder überzeugend sein könnte, quasi Idealbedingungen eines Wunders, damit er es akzeptiert
+	- Zehntägige Dunkelheit
+		- ohne Religion
+		- muss bezeugt werden
+		- alle schriftsteller überall stimmen damit überein das es zehtätige dunkelheit
+		- alle zeugnisse bestätigen (überall aus der Welt) ohne eine einzige Abweichung
+		- muss auch noch erforscht werden, das Wunder
+	- aber Auferstehen Königin Elizabeth ist immer ausgeschlossen, weil ein Auferstehen einfach nicht im Weltlauf liegen kann
+- aber selbst diese akzeptiert er nicht
+- Hume kann aber Wunder nicht Metaphysisch ausschließen, weil er den Naturlauf nicht bestimmen kann, es gibt keine Regeln für ihn, da er sich nur aus den Erfahrungen zusammensetzt, also ist ein Wunder rein theoretisch möglich
+- Hume ist kein Gegner der Zeugnisse, hält diese für wichtig
+Hausaufgabe: Abschnitt 11 "die Vernunftreligion" nicht den ganzen
+## Fragen

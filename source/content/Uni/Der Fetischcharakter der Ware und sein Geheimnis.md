@@ -1,0 +1,2 @@
+#platypus #marx 
+Die Ware trägt die Produktionsverhältnisse in sich und ihr Wert ist von der Nützlichkeit des Gebrauchgegenstandes entkoppelt und ihr Wert fixiert sich so langsam (?) das es so wirkt als wäre es schon immer so gewesen und als nicht veränderbar.

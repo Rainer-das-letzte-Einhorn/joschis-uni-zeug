@@ -1,0 +1,3 @@
+#soziologie #t1 #thomas 
+"Wenn die Menschen Situationen als real definieren, so sind auch ihre Folgen real"
+schlicht und einfach, dass für einen Menschen in einer Situation ziemlich egal ist wie diese "wirklich" aussieht, sondern für ihn das die Realität ist, was er als solche definiert. Und das aus dieser "unwahren" Situation durchaus sehr reale Folgen entstehen können, da der Mensch keinen unterschied zwischen realen und vorgestellten Situationen machen kann

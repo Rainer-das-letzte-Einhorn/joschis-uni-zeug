@@ -1,0 +1,198 @@
+#soziologie #t1 #worms #tarde #richard #mauss
+#### Mitschrift
+Religion und Magie (Entfernung von Durkheim) wir sind bei [[Marcel Mauss]]
+- Mana 
+	- man gibt etwas, also gibt man auch etwas von sich selbst
+	- => Allianz zwischen unterschiedlich sozialen Gruppen
+- Gabe als Symbol der Vergesellschaftung
+	- man macht eine Gesellschaft zusammen
+	- durch den Austausch
+- Austausch zwischen den Mitgliedern der gesellschaft
+###### Der Begriff der Gabe
+- es gibt auch Weinachten als Austausch
+	- wenn mir was geschenkt wird, dann muss ich auch eine gegenleistung bringen
+- [[4 Formen der Solidarität]] bei durkheim
+	- bei mauss führt solidarität nicht nur zum aufbau sondern auch zum erhalt der gesellschaft
+		- aber mit dem austausch einbezogen
+	- trotzdem eine gesellschaft der sozialen tatsachen
+[[2025-11-04]]
+- zusammenleben macht das leben einfacher
+	- ohne zusammenleben würden wir sogar unsere identität verlieren
+	- reziproker (gegenseitiger) Austausch auf von einzelnen und kollektiven ([[3 Ebenen der Soziologie]])
+		- finden diesen austausch beim hin und zurück auf der mikroebene
+##### [[Französische Soziologie]]
+- Durkheim Schule war eine Minderheit von Forschern
+- 1880-1920
+	- Soziologie nicht nicht institutionalisiert
+		- Philosophen, Rechtswissenschaftler
+	- soziologie war keine [[lingua franca]] = es gibt keine einzige
+- innerhalb von "deutschen Soziologie" "französischen Soziologie" unterschiedliche Ansätze
+- ###### [[Gabriel Tarde]]
+- Erfindung nachahmung wiederholung drei grundbegriffe
+	- Erfindung
+		- Dynamik
+		- Gefühle fließen hinein
+			- unterscheidung in sympathische und hass gefühle
+			- führen auch zur vergröerung und vertiefung von kollektiven
+		- es gibt Akeutere (Personen) die gute Ideen haben und diese beeindrucken die Gesellschaft
+		- eine erfindung setzt immer ein ziel vorraus
+			- erfinden nur im Kontext der lösung eines problems
+			- eine erfindung nie ohne glauben und begehren
+	- Nachahmung
+		- erfindung nur der ausgangspunkt
+			- wenn nicht rezipiert dann nix
+			- muss rezipiert werden
+		- große Akteure produzieren etwas
+			- innere suggestion lässt andere dieses Produkt reprodroduzieren/nachahmen
+				- Ziel: das begehren etwas erreichen auch fühlen
+			- ich kopiere, veresuche genau das gleiche zu machen
+				- um auch große ziele zu erreichen
+				- Akteure bewundern große Menschen, wie kleine Kinder ihre Eltern
+			- Influencer versuchen dies gerade nachzumachen
+				- menschen die versuchen, andere menschen zu beeinflussen, damit dinge in einer gesellschaft erreicht werden
+		- wenn nachahmung stattgefundet hat, wird sie überall stattfinden
+			- sie verbreitet sich
+				- mithilfe von gefühlen (große gefühle der erfindung)
+				- keine rationale sache
+				- emotionen multiplikatoren von einflüssen der gesellschaft
+	- //Wie wird moderne Soziologie gemacht, das hier sind doch alles nur vermutungen und theorien. Stimmt davon überhaupt irgendwas mit der menschlichen Natur überein?
+	- Wiederholung
+		- durch nachahmung => weiter nachahmungen
+			- führt zu existenz von sozialen Verhältnissen und zur Gesellschaft
+	- nicht ziprokität oder solidarität als wurzel der gesellschaft sondern:
+		- prestige
+			- autorität von großen Menschen in der Gesellschaft
+				- haben großen einfluss in der Gesellschaft 
+				- grundsätzliche Asymmetrie zwischen Erfindern und Nachahmern (grundsätzlich ungleiche gesellschaft)
+	- ###### Klassengesellschaft
+		- natürlicher prozess
+			- nachahmer wollen prestige aktuere werden um auch autorität zu haben
+				- desakralisierung (man tötet Gott und erfindet dahinter den Menschen)
+				- auch wir können etwas erfinden
+				- wir reallsieren, dass wir in der Gesellschaft der Menschen leben
+	- Emotionen
+		- Imperium der Ästhetik, wenn asymmetrien abgeschafft sind
+			- Moment der Vervollständigung
+				- Zustand der Geselleschaft am Ende
+				- dadurch, das die Menschen sich als gleich ansehen
+				- überholung des Gesellschaftlichen lebens
+				- nicht gezwungen nach der gesellschaft zu leben
+					- menschen brauchen keine gesellschaft sondern nur ihre gefühle
+			- Weg aus der Vorstellung des biologischen Organismus [["Proto-Soziologie"]]
+				- verhaltenswissenschaften
+			- Prozess der Differenzierung von Menschen
+				- aber nicht soziale sondern nach Wiederholung u. Nachahmung der Erfindung von großen Akteuren
+				- nicht dadurch, dass man anders ist
+				- menschen kommen immer mehr zusammen, weil nur psotive gefühle
+					- daraus entsteht universale liebe
+	- Kritik an tarde
+		- tarde setzt vorraus das alle ständig nachahmen
+			- => Determininismus
+				- das kein hinterfragen möglich
+				- menschen als zombies die nur vollständig davon angetrieben werden etwas nachzuahmen 
+					- das es keine 
+		- keine zusammenstellung von ebenen ohne unterschiede
+			- Individuen bleiben
+				- das was diese machen kann nicht in größeren instanzen gesehen werden
+				- Politik und gesellschaft beeinflusst Wissenschaft und andersherum
+					- das fehlt bei Tarde
+	- Psychosozioiologie von Tarde => [["Proto-Soziologie"]]
+- ###### [[Réne Worms]]
+	- verteidiger des organizismus (organismus)
+	- andere soziologen haben ähnliches gemacht
+	- wollen institutionen gründen (soziologische)
+		- dann muss die gesellschaft uns sehen und die politik uns unterstützen
+	- Rechtswissenschaftler und soziologe auch Akteur in der Politk
+	- eine Wissenschaft unter anderen (nicht mehr spitze)
+		- Tochter der [["Politischen Ökonomie"]]
+			- obwohl hier mehr wirtschaftswissenschaften gemeint wird
+			- Teilung der Arbeit mit Vertrag
+				- stagnierung der spezialisierung von Akteuren
+				- antwort auf die neuen Bedürfnisse der gesellschaft
+					- da organismus, entwickelt sich alles organisch
+					- die wirtschaft ist das herz der gesellschaft
+						- wir leben alle davon
+						- wir leben davon das alles immer weiter spezialisiert wird
+						- vorstellung der sozialen Ordnung von Durkheim ablehnen
+	- Durch arbeitsteilung wird Vermögens
+		- wenn nicht alle akteure gleich am arbeitsmarkt teilnehmen können
+		- dann entsteht ungleichheit
+	- brauchen Soziale Wirtschaft
+		- müssen Wirtschaftsproblem behandeln
+		- Antwort auf den Kapitalismus
+			- Kapitalismus = perverse Entwicklung des liberalen Markts
+		- zusammen mit de rpolitischen Ökonomie verstehen, wie die Gesellschaft entwickelt werden muss
+			- Solidarismus kommt aus der Wirtschaft
+				- Gründung GmBH nicht unbedingt gut für die Wirtschaft
+					- könnte auch: gegenseitige Unterstützung der Wirtschaft, durch umverteilung des Profits auf alle
+					- möglich durch produktionsgenossenschaften
+	- Probleme der Sozialen Wirtschaft (von Worms selbst)
+		- menschen sind frei geworden durch verträge
+		- unterscheidung zwischen stadt land, soziale ungleichheit
+		- Industrien
+		- Vermögensverteilung ist immer noch ungerecht
+			- beeinträchtig zusammenarbeit zwischen Akteuren
+			- Spezialisierung muss anerkannt werden, vor allem wenn kein prestige möglich ist
+			- Beispiel Rattenfänger in New York, Gehalt einfach verzehnfacht
+			- Beispiel Corona, 30% der Studenten an Unis verloren warum?
+				- ansteckrisiko?
+				- online vl macht depressiv?
+				- verbesserung von arbeitsbedingungen in professionen ohne lange bildungswege
+					- z.B. tischler
+					- aber auch risiko des studierens da darlehen aufnahme
+						- arbeiten risikoärmer
+						- das was worms sagt, die anerkennung eines berufs in der gesellschaft ändern
+		- sind alle Benutzer u. Verbraucher dieser Gesellschaft
+		- Ansatz des Kapitalismus umdrehen (produzieren um des produzieren willens)
+			- wir produzieren nur das was wir brauchen
+		- wir müssen mikrokredite anbieten
+			- bankgründung in form einer genossenschaft
+			- kleine kredite (20,50,80€)
+				- hilft schon sehr
+- ###### [[Gaston Richard]]
+	- Mitglied der Durkheim Schule
+	- positioniert sich gegen durkeim und gegen Tarde
+	- Grundlage des Rechts
+	- Kritik Durkheim
+		- Solidarität ist relation einer aktuellen gesellschaft
+		- widerstand zwischen gesellschaft und individuum
+		- nachlesen!!!
+	- Kritik Tard
+		- gegen die bedingungslose Nachahmung (ohne zu hinterfragen)
+		- in einer gesellschaft gibt es grundsätzlich einen Widerstand
+			- weil wir unterschiedliche personen sind und dazu stehen
+			- nicht nuur ein wiederstand gegen, sondern auch für etwas (mich z.B.)
+			- kommt aus der [[Psychologie]]
+			- keine Eigenschaft von Akteuren
+				- eher ein Merkmal von Beziehungen zwischen Akteuren innerhalb einer Gesellschaft
+			- Recht entsteht aus dem Widerstand 
+				- müssen für alle gelten
+			- haben zwar gesellschaftliche Ordnung aber es gibt immer Akteure die diese überschreiten
+				- "Kriminelle" haben kein recht in der Gesellschaft da sie sich nicht an die gesellschaft halten und somit die gesellschaft zerstören wollen
+				- Kriminelle haben trotzdem rechte
+				- [[Anthroprometrie]], wissenschaft aus körpern zu schließen ob menschen bspw. kriminell sind
+					- dann kann man es als kind vorhersehen und direkt wegsperren
+			- lieber anstatt einsperren, begleiten im laufe des lebens
+			- (zur Zeit gibt es sehr viele Kriminelle)
+				- (Wissenschaftler sehen Kriminalität als Krankheit)
+			- Gesellschaft akzeptiert die Verantwortung für die Kriminellen nicht, die sie aber selbst produziert
+				- muss diese Verantwortung aber tragen
+			- kriminelle werden nicht immer kriminell bleiben
+	- Durch Kriminalität neue Auffasung von Solidarität
+		- Rechtssystem unterstützen, damit es für alle gleich da sein kann
+			- gelingt nur wenn Recht (was immer mit einem Staat/politischer Einheit verbunden ist) von dem Völkerrecht unterstützt wird
+				- nur durch die Anerkennung von rechten anderslebenden menschen sind unsere eigenen rechte gesichert
+				- werden als gesellschaft nur stärker wenn alle in akteure in der gesellschaft integriert werden können
+					- in die richtung einer klassenlosen gesellschaft 
+	- neuer begriff der soziologie
+		- nachlesen!!
+	- Gesellschaft ist keine Nation
+		- gesellschaft entwickelt sich weg von dem Nation
+		- moderne gesellschaft kann auch ohne staat leben
+			- durch organisationsform von bürgern
+				- bspw. genossenschaften usw.
+				- rat (Schweiz)
+		- gesellschafft ist dafür da, das die menschen sich entwickeln können
+			- welche form wollen wir entwickeln, die zum aktuellen wirtschaftlichen Zustand passt
+
+Nächste VL behandelt die deutsche Soziologie

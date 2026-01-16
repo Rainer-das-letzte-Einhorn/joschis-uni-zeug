@@ -4,35 +4,30 @@
     "type": "split",
     "children": [
       {
-        "id": "0571c1c94d829fac",
+        "id": "bb37a55ac0f278a2",
         "type": "tabs",
         "children": [
           {
-            "id": "47ef711f7e8c1d64",
+            "id": "6f0ff710274ede13",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph-Ansicht"
             }
           },
           {
-            "id": "2d8837e6263008e3",
+            "id": "ab52b78bd818f1a9",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "category-folder/Some note.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Neuer Tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -51,8 +46,11 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
             }
           },
           {
@@ -67,7 +65,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
             }
           },
           {
@@ -75,14 +75,18 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "ba1ec06a672fb227",
@@ -98,7 +102,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "category-folder/Some note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +109,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise"
             }
           },
           {
@@ -115,10 +120,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "category-folder/Some note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links"
             }
           },
           {
@@ -128,8 +134,12 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
-              }
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -138,8 +148,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "category-folder/Some note.md"
-              }
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung"
             }
           }
         ]
@@ -151,20 +165,61 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d8837e6263008e3",
+  "active": "6f0ff710274ede13",
   "lastOpenFiles": [
-    "category-folder/index.md",
-    "category-folder/Some note.md",
-    "index.md",
+    "Uni/MPL Seminar Woche 11.md",
+    "Uni/Therapeuten Anrufliste.md",
+    "Uni/Zitation.md",
+    "Uni/zweite Nachricht an S3.md",
+    "Uni/Wie schlafe ich besser?.md",
+    "Uni/Woche3/Wie will ich leben?.md",
+    "Uni/Zeitdokumentation.md",
+    "Uni/Wochenplan.md",
+    "Uni/Woche3/Wie studiere ich?.md",
+    "Uni/Wie lese ich Tabellen?.md",
+    "Uni/Woche3/Wie lese ich?.md",
+    "Uni/Pierre Bordieu.md",
+    "Uni/Woche3/TO DO.md",
+    "Uni/Nachricht an S3.md",
+    "Uni/Einkaufslisten.md",
+    "Uni/2025-11-11.md",
+    "Uni/Home.md",
+    "Uni/Ansprache-der-Zentralbehörde.md",
+    "Uni/\"Gesammelte Aufätze zur Religions-Soziologie\".md",
+    "Uni/Symbolischen Interaktionismus.md",
+    "Uni/SO1 VL Woche 12.md",
+    "Uni/SO1 VL Woche 11.md",
+    "Uni/SO1 VL Woche 9.md",
+    "Uni/SO1 Übung Woche 11.md",
+    "Uni/SO1 Übung Woche 10.md",
+    "Uni/SO1 Übung Woche 9.md",
+    "Assets/Bilder/Pasted image 20251120114636.png",
+    "Uni/Woche3",
+    "Assets/Bilder/Screenshot 2025-11-11 at 14.29.54.png",
+    "Assets/Bilder/Screenshot 2025-11-04 at 15.39.41.png",
+    "Assets/Bilder/Screenshot 2025-11-04 at 15.06.09.png",
+    "Assets/Bilder/Screenshot 2025-11-04 at 15.06.09 1.png",
+    "Assets/Bilder/Screenshot 2025-10-30 at 12.08.38.png",
+    "Assets/Bilder/Screenshot 2025-10-30 at 12.06.33.png",
+    "Assets/Bilder/Pasted image 20260115114706.png",
+    "Assets/Bilder/Pasted image 20260115114327.png",
+    "Assets/Bilder/Pasted image 20260115114211.png",
+    "Assets/Bilder/Darstellung-T1-Skript.pdf",
+    "Assets/Bilder/An Enquiry Concerning Human Understanding - Eine -- David Hume; heribert Herring; heribert Herring; Falk -- Reclams Universal-Bibliothek, 1_ Auflage, -- 9783150187098 -- 91b8ab68b9a18bacaa582bd61d89031a -- Anna’s Archive.epub",
+    "Assets/Bilder",
+    "Assets",
+    "Tagebuch",
+    "Uni",
     "category-folder"
   ]
 }

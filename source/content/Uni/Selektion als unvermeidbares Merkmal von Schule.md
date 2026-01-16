@@ -1,0 +1,19 @@
+#soziologie #bs1 #luhmann
+- Erziehung muss eine gute Absicht sein
+- [[Sozialisation]] muss auf ein Leben in permanenter Unsicherheit vorbereiten
+	- insbesondere Schule bereitet darauf vor
+- Schule gibt Leistungsschienen vor in denen Ungleichheit herrscht (bessere Noten für bessere Leistung, gleiche Noten für gleiche Leistung)
+	- hilfreich für einordnung (Schüler:innen, Eltern)
+	- Problem Lehrkraft muss gleiche Noten für gleiche Leistung geben
+		- wie bewertet man Sport bspw.
+- Notengebung ist unvermeidbar
+- durch die Wissens/Kompetenzvermittlung entsteht ein Druck die Kinder bewerten/kommentieren zu müssen
+	- auch ein "du hast ja schön gemalt" ist eine Bewertung
+	- oder ein Tadel wenn ein Kind ein anderes schlägt
+- es wird aber nur gesagt das bewertet werden muss, gibt aber keine einfache Möglichkeit vor wie dies passieren kann
+- Lehrkräfte müssen wegen Zensuren vergleichen
+- es wird immer Kinder geben die es schneller/langsamer verstehen
+	- Selektion ist unvermeidbar
+- Ungleichheit in der Leistung, wie hängt die mit askriptiven Faktoren zusammen?
+	- Luhmann kann es nicht gut erklären
+- Luhmann zeigt, das Selektion notwendig ist, da diese immer bei Bewertung auftritt und Schule Bewerten muss (Bildungsauftrag, per Definition)
